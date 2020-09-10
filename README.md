@@ -2,7 +2,7 @@
 
 
 ![](image/varshith%20profile%20banner.jpg)
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...python Modules
 - 🌱 I’m currently learning ...various OS operations
