@@ -10,6 +10,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...anything!
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...varshith or abhi
+- 😄 Pronouns: ...varshith
 - ⚡ Fun fact: ...I am super cool
 
