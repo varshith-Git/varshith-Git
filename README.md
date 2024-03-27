@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on ...python Modules
-- 🌱 I’m currently learning ...various OS operations
+- 🔭 I’m currently working on ...Data Engineering
+- 🌱 I’m currently learning ...Gen AI
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...anything!
