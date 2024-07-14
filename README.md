@@ -7,7 +7,11 @@
 
 - 🔭 I’m currently working on **Generative AI**
 
+- 👯 I’m looking to collaborate on **RAG Project**
+
 - 📫 How to reach me **varshith.gudur17@gmail.com**
+
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
