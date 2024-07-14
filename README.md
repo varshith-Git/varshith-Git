@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshith-git&label=Profile%20views&color=0e75b6&style=flat" alt="varshith-git" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshith-git" alt="varshith-git" /></a> </p>
-
 - 🔭 I’m currently working on **Generative AI**
 
 - 📫 How to reach me **varshith.gudur17@gmail.com**
