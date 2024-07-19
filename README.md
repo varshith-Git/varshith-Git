@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Generative AI**
 
-- 👯 I’m looking to collaborate on **RAG Project**
+- 👯 I’m looking to collaborate on **RAG, LLM**
 
 - 📫 How to reach me **varshith.gudur17@gmail.com**
 
