@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gudur varshith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gudur varshith" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26529022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26529022" height="30" width="40" /></a>
 <a href="https://varshith-git.github.io/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=LoyAjcvVKv1K&format=png&color=000000" alt="gudur varshith" height="40" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
