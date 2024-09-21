@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **varshith.gudur17@gmail.com**
 
-- ⚡ Interests **I am Interested in Opensource Contributions**
+- ⚡ Interests **Opensource, Code Reviews, Hackathons**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
