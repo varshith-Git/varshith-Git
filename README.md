@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshith-git&label=Profile%20views&color=0e75b6&style=flat" alt="varshith-git" /> </p>
 
-- 🔭 I’m currently working on **Generative AI**
+- 🔭 I’m currently working on **Valori - Vector Database [https://pypi.org/project/valori/]**
 
 - 👯 I’m looking to collaborate on **RAG, LLM, Deep learning models**
 
