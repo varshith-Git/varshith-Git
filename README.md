@@ -59,8 +59,10 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshith-git&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshith-git&theme=radical" alt="GitHub streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varshith-git&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top languages" />
+  <h3>📊 Coding Activity & Stats</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varshith-git&theme=react" alt="Activity Graph" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshith-git&theme=radical" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=varshith-git&theme=radical" alt="Stats" />
 </div>
 
