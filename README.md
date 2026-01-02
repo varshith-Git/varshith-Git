@@ -59,6 +59,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshith-git&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varshith-git&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshith-git&theme=radical" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varshith-git&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top languages" />
 </div>
 
