@@ -32,6 +32,7 @@
 |----------|----------|-------------|
 | **Arxiv** | [![Arxiv](https://img.shields.io/badge/Arxiv-2512.22280-B31B1B.svg?style=flat-square)](https://arxiv.org/abs/2512.22280) | *Valori: A Deterministic Memory Substrate for AI Systems* |
 | **Hugging Face** | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Paper-FFD21E.svg?style=flat-square&logo=huggingface)](https://huggingface.co/papers/2512.22280) | Full paper and community discussion |
+| **Google Scholar** | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4.svg?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.co.in/citations?user=LqEikewAAAAJ&hl=en) | Academic citations and research history |
 | **Website** | [![Valori](https://img.shields.io/badge/Valori-Systems-black?style=flat-square)](https://valori.systems/) | Official product page and documentation |
 
 ---
