@@ -60,11 +60,9 @@
 
 <div align="center">
   <h3>📊 Coding Activity & Stats</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varshith-git&theme=react" alt="Activity Graph" />
-  
-  <br /> <br />
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshith-git&theme=radical" alt="Profile Details" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=varshith-git&theme=radical" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshith-git&theme=radical" alt="Profile Details" />
+  <br /> <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varshith-git&theme=react" alt="Activity Graph" />
 </div>
 
